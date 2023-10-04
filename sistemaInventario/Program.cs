@@ -18,7 +18,7 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
-builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>(); // OJO  este servicio  es muy importante par no dar errores OJO
 
 var app = builder.Build();
 

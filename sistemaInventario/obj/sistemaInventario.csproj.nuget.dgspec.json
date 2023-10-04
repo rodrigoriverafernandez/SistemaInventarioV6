@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\sistemaInventario\\sistemaInventario.csproj": {}
+    "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\sistemaInventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+    "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "projectName": "SistemaInventario.AccesoDatos",
-        "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "outputPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\sistemaInventario\\sistemaInventario.csproj": {
+    "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\sistemaInventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\sistemaInventario\\sistemaInventario.csproj",
+        "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\sistemaInventario.csproj",
         "projectName": "sistemaInventario",
-        "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\sistemaInventario\\sistemaInventario.csproj",
+        "projectPath": "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\sistemaInventario.csproj",
         "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\sistemaInventario\\obj\\",
+        "outputPath": "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,14 +228,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
               },
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }

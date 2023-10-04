@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gO3gY6BHibn9BrfhrSkqv0hjASiuptzEqAm6m23dryc7G8ZW83SEEUS1TnQdfVALFFG0GrGEF324vN8TJug/FA==",
+  "dgSpecHash": "fgjHwOfyAWqLcz1su5jDGfbMf4a0oSpJxIMyP6h0u5SofZiP55y9qvJxAAJpX2682YeD8PW8Cq1/ywi40orVGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+  "projectFilePath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\85124\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\85124\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

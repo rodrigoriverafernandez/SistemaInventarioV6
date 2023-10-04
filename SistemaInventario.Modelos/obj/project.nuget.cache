@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HV7K9ksOQLHqvSvma+1j2K/7RowMc1WeAETR//rnHPTTTiMRTvBtjDhJmTzqrlJ1UGdDVW5rHTTOdL346j6fmg==",
+  "dgSpecHash": "DNARDIXun71owEGLD/lO7U9v9OTxT0qG7LTY04lyOh4/veJVaaKK+ciSzrJ/j1LOQ5XPy+HlTaknCHA/res9cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\85124\\Desktop\\CursoMVC_Inventario\\sistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+  "projectFilePath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
