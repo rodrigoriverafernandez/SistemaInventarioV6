@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaInventario.AccesoDatos
-build_property.ProjectDir = C:\Proyectos_Clonados_rrf\SistemaInventario.AccesoDatos\
+build_property.ProjectDir = C:\CursosNetC#\SistemaInventarioV6-RRF-5\SistemaInventario.AccesoDatos\

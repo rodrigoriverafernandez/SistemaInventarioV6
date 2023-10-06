@@ -18,8 +18,8 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
-builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>(); // OJO  este servicio  es muy importante par no dar errores OJO
-
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>(); // OJO Migracion este servicio  es muy importante par no dar errores OJO
+// despues de comentarla al migrar, despues de migrar descomentarla
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

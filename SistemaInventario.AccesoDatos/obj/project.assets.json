@@ -3063,11 +3063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "projectName": "SistemaInventario.AccesoDatos",
-      "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.AccesoDatos\\obj\\",
+      "outputPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3084,11 +3084,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }

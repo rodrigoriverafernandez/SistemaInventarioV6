@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m02/z3f5SupWcwApcYbLHfziEim72l6gC9acavjel/JrISitmUeybUV7F++oazI6Lo0KSlXOqMYmbwkY5SXm2w==",
+  "dgSpecHash": "iZ8IQFOPApucHvLaIesFM1M6633UbBYOTIogkvUSRRe0dLgNo4xXhlZwErjLBWveWSAQliDJUiAxU6XeRDQQAQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos_Clonados_rrf\\sistemaInventario\\sistemaInventario.csproj",
+  "projectFilePath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\sistemaInventario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\85124\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\85124\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

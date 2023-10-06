@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNARDIXun71owEGLD/lO7U9v9OTxT0qG7LTY04lyOh4/veJVaaKK+ciSzrJ/j1LOQ5XPy+HlTaknCHA/res9cQ==",
+  "dgSpecHash": "5cwNrZq22vD7oV4mlbQv2/KCnAKT3nmfwkccBi60f4Kv3FA7bK72KJj66fyAZK0ZHE5OVIT307hPM/hc0iYjZw==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+  "projectFilePath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

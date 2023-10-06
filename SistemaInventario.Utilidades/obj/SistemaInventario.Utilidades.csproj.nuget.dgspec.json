@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
+    "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\85124\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos_Clonados_rrf\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\85124\\AppData\\Roaming\\NuGet\\NuGet.Config",
