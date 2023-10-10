@@ -22,5 +22,6 @@ namespace SistemaInventario.Modelos
 
         [Required(ErrorMessage = "Estado es Requerido")]
         public bool Estado { get; set; }
+       
     }
 }

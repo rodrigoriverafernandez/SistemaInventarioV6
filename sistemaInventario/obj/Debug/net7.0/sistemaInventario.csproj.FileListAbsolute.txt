@@ -1684,3 +1684,5 @@ C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\obj\Debug\net7.0\refi
 C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\obj\Debug\net7.0\sistemaInventario.pdb
 C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\obj\Debug\net7.0\sistemaInventario.genruntimeconfig.cache
 C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\obj\Debug\net7.0\ref\sistemaInventario.dll
+C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\CursosNetC#\SistemaInventarioV6-RRF-5\sistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

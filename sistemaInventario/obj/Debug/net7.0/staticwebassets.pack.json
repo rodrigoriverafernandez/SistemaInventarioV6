@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\01890f27-e173-4e83-92e2-704e3e00e8ce.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\01890f27-e173-4e83-92e2-704e3e00e8ce.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\1bf01386-bcef-4c77-8601-bde22167f79f.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\1bf01386-bcef-4c77-8601-bde22167f79f.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\5c97ddcf-870f-44c4-9897-072029eb79cd.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\5c97ddcf-870f-44c4-9897-072029eb79cd.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\e18b9bc9-09eb-4035-b640-7ef571ce71b6.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\e18b9bc9-09eb-4035-b640-7ef571ce71b6.JPG"
+    },
+    {
       "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +39,10 @@
     {
       "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\site.js",
