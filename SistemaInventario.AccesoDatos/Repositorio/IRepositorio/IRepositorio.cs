@@ -1,4 +1,5 @@
 ﻿
+using SistemaInventario.Modelos.Especificaciones;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,8 +20,11 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
             string incluirPropiedades = null,
             bool isTracking = true
             );
-
-        
+        PagedList<T> ObtenerTodosPaginado(Parametros parametros, // METODO Para Paginacion muy similar a ObtenerTodos
+            Expression<Func<T, bool>> filtro = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+            string incluirPropiedades = null,
+            bool isTracking = true);
 
         Task<T> ObtenerPrimero(
             Expression<Func<T, bool>> filtro = null,
