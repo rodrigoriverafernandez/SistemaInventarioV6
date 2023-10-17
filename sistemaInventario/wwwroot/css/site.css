@@ -26,7 +26,7 @@ body {
 
 
 .header {
-    height: 20vh;
+    height: 15vh;
     background: linear-gradient(to right, #007529, #00ff00);
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }

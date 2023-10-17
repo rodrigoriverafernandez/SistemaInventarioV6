@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\sistemaInventario.bundle.scp.css",
+      "PackagePath": "staticwebassets\\sistemaInventario.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\01890f27-e173-4e83-92e2-704e3e00e8ce.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\01890f27-e173-4e83-92e2-704e3e00e8ce.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\08476e27-1d41-449c-8c4b-054aadd3f889.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\08476e27-1d41-449c-8c4b-054aadd3f889.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\1bf01386-bcef-4c77-8601-bde22167f79f.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\1bf01386-bcef-4c77-8601-bde22167f79f.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\2b19c5b9-f172-4f1a-850d-82d0d1335213.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\2b19c5b9-f172-4f1a-850d-82d0d1335213.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\5c97ddcf-870f-44c4-9897-072029eb79cd.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\5c97ddcf-870f-44c4-9897-072029eb79cd.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\9c1966fd-642c-49a7-aa7d-a65f44fcbaad.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\9c1966fd-642c-49a7-aa7d-a65f44fcbaad.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\9f457a59-05b3-4d8e-a158-f1c5a61cc5b0.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\9f457a59-05b3-4d8e-a158-f1c5a61cc5b0.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\b85acfd0-2de6-40c4-871e-b15fd2736635.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\b85acfd0-2de6-40c4-871e-b15fd2736635.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\e18b9bc9-09eb-4035-b640-7ef571ce71b6.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\e18b9bc9-09eb-4035-b640-7ef571ce71b6.JPG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\icono.ico"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\icono.png"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\imagenes\\producto\\logo.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\logo.PNG"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\bodega.js",
+      "PackagePath": "staticwebassets\\js\\bodega.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\CursosNetC#\\SistemaInventarioV6-RRF-5\\sistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.sistemaInventario.props",
+      "PackagePath": "build\\sistemaInventario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.sistemaInventario.props",
+      "PackagePath": "buildMultiTargeting\\sistemaInventario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.sistemaInventario.props",
+      "PackagePath": "buildTransitive\\sistemaInventario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.sistemaInventario.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
