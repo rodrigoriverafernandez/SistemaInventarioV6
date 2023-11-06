@@ -11,7 +11,7 @@ namespace SistemaInventario.Utilidades
     {
         public override IdentityError PasswordRequiresLower()
         {
-            return new IdentityError
+            return new IdentityError()
             {
                 Code = nameof(PasswordRequiresLower),
                 Description = "El password debe tener al menos una letra minuscula"
