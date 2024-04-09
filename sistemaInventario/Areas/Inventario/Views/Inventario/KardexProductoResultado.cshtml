@@ -26,14 +26,20 @@
    </div>
 
      <div class="col-2">
-        <img src="@DS.ImagenRuta@Model.Producto.ImagenUrl" style="border-radius5px; width:100; height:100px;"/>
+        <img src="@DS.ImagenRuta@Model.Producto.ImagenUrl" style="border-radius5px; width:100px; height:100px;"/>
      </div>
     </div>
-     <div class="row mb-2">
-            <div class="form-group col-md-3" mt-2>
-                <a asp-action="KardexProducto" class="btn btn-primary"> Nueva Consulta</a>
-                <a asp-action="Index" class="btn btn-primary"> Salir</a>
+    <div class="row mb-2">
+        <div class="form-group col-md-6 mt-2">
+            <a asp-action="KardexProducto" class="btn btn-primary">Nueva Consulta</a>
+            <a asp-action="ImprimirKardex"
+               asp-route-fechaInicio="@Model.FechaInicio" asp-route-fechaFinal="@Model.FechaFinal"
+               asp-route-productoId="@Model.Producto.Id" class="btn btn-primary">
+                <i class="bi bi-printer"></i> Imprimir
+            </a>
+            <a asp-action="Index" class="btn btn-primary">Salir</a>
         </div>
+    </div>
      </div>
     <table class="table table-responsive table-hover table-bordered">
         @foreach (var bodega in Model.KardexInventarioLista.GroupBy(x => x.BodegaProducto.Bodega.Nombre))

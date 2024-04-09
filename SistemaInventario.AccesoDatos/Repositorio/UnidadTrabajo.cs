@@ -1,12 +1,5 @@
 ﻿using SistemaInventario.AccesoDatos.Data;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace SistemaInventario.AccesoDatos.Repositorio
 {
@@ -23,7 +16,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
 
         public IInventarioRepositorio Inventario { get; private set; }
 
-        public  IInventarioDetalleRepositorio InventarioDetalle { get; private set; }
+        public IInventarioDetalleRepositorio InventarioDetalle { get; private set; }
 
         public IKardexInventarioRepositorio KardexInventario { get; private set; }
 
@@ -43,12 +36,12 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         }
         public void Dispose()
         {
-           _db.Dispose();
+            _db.Dispose();
         }
 
         public async Task Guardar()
         {
-           await _db.SaveChangesAsync();
+            await _db.SaveChangesAsync();
         }
     }
 }
